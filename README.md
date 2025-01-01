@@ -25,8 +25,5 @@ cd login-form
 **Credits**
 •	Ionicons - https://ionicons.com/
 •	Google Fonts - https://fonts.google.com/
-
-**Author**
-•	Developed by Shivaram-9
 ____________________________________________________________________________________________________________________________  
 This README file provides an overview of this project, instructions for usage, credits to resources used, licensing information, and your authorship details. Adjust it according to any specific details or enhancements you wish to highlight about your project.
